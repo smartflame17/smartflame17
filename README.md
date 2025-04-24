@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smartflame17
-- 👀 I’m interested in Unreal Engine Game Development
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently an CS undergraduate at Sogang University
 - 📫 How to reach me
 -   jasonjiseop.kim@gmail.com
