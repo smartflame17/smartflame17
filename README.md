@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20Jason's%20Repo&fontSize=40"/>
+</div>
+<br>
 
   <div align="center">
   - 👋 Hi, I’m @smartflame17 <br>
